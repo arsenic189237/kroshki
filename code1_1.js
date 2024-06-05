@@ -2544,5 +2544,6 @@ myArray[9] = "no_data";
 console.log("PUSTOE1");
   };
 console.log(myArray);
+  console.log("test_test");
 return myArray;
 };
