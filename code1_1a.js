@@ -2529,20 +2529,7 @@ myArray[7] = linkBC4;
 myArray[8] = nameBC5;
 myArray[9] = linkBC5;
 console.log("NE PUSTOE1");
-}
-else {
-myArray[0] = "no_data";
-myArray[1] = "no_data";
-myArray[2] = "no_data";
-myArray[3] = "no_data";
-myArray[4] = "no_data";
-myArray[5] = "no_data";
-myArray[6] = "no_data";
-myArray[7] = "no_data";
-myArray[8] = "no_data";
-myArray[9] = "no_data";
-console.log("PUSTOE1");
-  };
+};
 console.log(myArray);
   console.log("test_test");
 return myArray;
