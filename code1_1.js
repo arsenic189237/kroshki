@@ -1,6 +1,6 @@
 
 
-function myFunction2(inputA) {
+function myFunction1_1(inputA) {
 console.log('Входной параметр:', inputA);
 let linkBC1 = "";
 let nameBC1 = "";
