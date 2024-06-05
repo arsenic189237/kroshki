@@ -2529,7 +2529,20 @@ myArray[7] = linkBC4;
 myArray[8] = nameBC5;
 myArray[9] = linkBC5;
 console.log("NE PUSTOE1");
-};
+}
+else {
+myArray[0] = "";
+myArray[1] = "";
+myArray[2] = "";
+myArray[3] = "";
+myArray[4] = "";
+myArray[5] = "";
+myArray[6] = "";
+myArray[7] = "";
+myArray[8] = "";
+myArray[9] = "";
+console.log("PUSTOE1");
+  };
 console.log(myArray);
 return myArray;
 };
